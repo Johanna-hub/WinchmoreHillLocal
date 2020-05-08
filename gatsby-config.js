@@ -2,10 +2,10 @@ require("dotenv").config()
 
 module.exports = {
   siteMetadata: {
-    title: `Brixton Local.Life`,
+    title: `Winchmore Hill Local.Life`,
     description: `Getting the word out for the local community and businesses during the COVID-19 lockdown`,
-    image: "/images/brixton.jpeg",
-    url: "https://www.brixtonlocal.life"
+    image: "/images/winchmore.jpeg",
+    url: "https://www.winchmorehilllocal.life"
   },
   plugins: [
     {
